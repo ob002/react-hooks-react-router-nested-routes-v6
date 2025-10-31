@@ -1,11 +1,9 @@
 function About() {
-    return (
-      <>
-        <main>
-          <h1>This is my about component!</h1>
-        </main>
-      </>
-    );
-  };
-  
-  export default About;
+  return (
+    <main>
+      <h1>About Page</h1>
+      <p>Welcome to our social media app!</p>
+    </main>
+  );
+}
+export default About;
